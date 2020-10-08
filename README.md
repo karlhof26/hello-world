@@ -1,3 +1,3 @@
 # iOS Apple Apps
-Repository of my apps.
+Repository of iOS apps.
 
