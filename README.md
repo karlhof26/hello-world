@@ -1,5 +1,3 @@
-# hello-world
-Just another repository to start
+# iOS Apple Apps
+Repository of my apps.
 
-Hi Humans.
-This is my first repository but will have more for my Gimp components.
